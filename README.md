@@ -4,7 +4,7 @@ Around 260,000 threads / comments scraped from Reddit. Useful dataset for NLP pr
 
 ## Quick Start
 
-Scraped using [omega-red](github.com/linanqiu/omega-red)
+Scraped using [omega-red](http://github.com/linanqiu/omega-red)
 
 The `.csv`s are named `<metareddit>_<subreddit>.csv`. The headers are described here and in `headers.txt`.
 
